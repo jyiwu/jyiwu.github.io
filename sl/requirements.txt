@@ -1,6 +1,4 @@
 streamlit
 pandas
 numpy
-pickle
-bz2
 scikit-learn==0.24.2
